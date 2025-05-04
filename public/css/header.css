@@ -35,10 +35,27 @@
     align-items: center;
 }
 
-.header__title {
-    max-width: 100%;
-    height: auto;
+.header__navbar--logo {
+    margin-top: 100px;
 }
+
+
+/* .header__title { 
+    max-width: 20px; 
+    height: auto; 
+ }   */
+
+.header__title img {
+    width: 150px ;
+    border: #fff solid 0px;
+    border-radius: 16px;
+}
+
+/* .header__picture {
+    width: 150px ;
+    border: #fff solid 0px;
+    border-radius: 16px;
+} */
 
 .header__navbar--menu-link {
     margin-left: 40px;
@@ -55,6 +72,9 @@
     position: relative;
     width: 60%;
     height: auto;
+    border: #fff solid 0px;
+    border-radius: 16px;
+    
 }
 
 .header__slogan--button {
