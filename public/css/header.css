@@ -171,5 +171,14 @@
         width: 90%;
         height: auto;
     }
+
+    .header__navbar--logo {
+        margin-top: 80px;
+    }
+
+    .header__title img {
+        width: 100px ;
+        
+    }
 }
 
